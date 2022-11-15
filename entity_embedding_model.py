@@ -14,6 +14,7 @@ def entity_embedding():
     cat_features = ['c1','c2','c3','c4','c5','c6','WILAYA_BAC','SEXE','SERIE']
     inputs = []
     models =[]
+    ## 
     data = pd.read_csv('orientationSystem\data\dataset.csv')
     CLASSES = data['target'].nunique()
 

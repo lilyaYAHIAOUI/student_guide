@@ -1,0 +1,6 @@
+from entity_embedding_model import entity_embedding
+from data_preparation import prep_entity_embedding_model, create_student_dictionary
+
+
+student_information=create_student_dictionary(list_choice, etudiant)
+input_dict=prep_entity_embedding_model(student_information)
