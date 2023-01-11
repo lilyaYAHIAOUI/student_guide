@@ -3,7 +3,7 @@ In this work, we propose a solution to guide the baccalaureate students when fil
 
 
 # challenges :
-The main challenge faced was dealing with the imbalanced dataset and how to encode rare categories in categorical data.
+The main challenge faced was dealing with the imbalanced dataset and how to encode rare categories in categorical data. 
 
 # Solution :
 After many experiments, We found that the best encoding is "entity embedding."
