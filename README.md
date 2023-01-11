@@ -9,7 +9,6 @@ The main challenge faced was dealing with the imbalanced dataset and how to enco
 After many experiments, We found that the best encoding is "entity embedding."
 
 # Results:
-Colons can be used to align columns.
 
 metric              | Training           | validation           | test  |
 --------------------| :-----------------:|:--------------------:| -----:|
